@@ -8,5 +8,5 @@ Telegram: <https://t.me/waterlou>
 
 Thank you very much!
 
-[](https://waterlou.github.io/lost/long-logo.png "")
+![](long-logo.png?raw=true "")
 
