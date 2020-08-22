@@ -8,5 +8,5 @@ Telegram: <https://t.me/waterlou>
 
 Thank you very much!
 
-![](long-logo.png?raw=true "")
+![](long-logo.png?raw=true)
 
